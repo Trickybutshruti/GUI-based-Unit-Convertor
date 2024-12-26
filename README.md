@@ -44,8 +44,6 @@ This is a **Python-based Unit Converter application** created using the **Tkinte
 2. Click the **"Convert"** button next to the field.
 3. View the converted results in the corresponding text boxes.
 
----
-
 ## **Code Structure**
 
 - **Tkinter Layout:** Organizes the GUI into rows and columns using the `grid()` method.
